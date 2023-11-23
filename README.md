@@ -1,7 +1,7 @@
 
 ## Your Project's Title
 
-A cDemo of AEM Edge Services for RTO
+A Demo of AEM Edge Services for RTO
 
 ## Environments
 
